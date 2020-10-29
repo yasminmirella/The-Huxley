@@ -6,7 +6,7 @@
 int main() {
 
     int a, b , C[4020], B[2010], A[2010], i, j , caso=1;
-
+    # sdds acmamis ):
     while (scanf("%d %d", &a, &b)!=EOF){
         for(i=0; i<=a+b; i++){
             C[i]=0;
